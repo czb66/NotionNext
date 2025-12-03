@@ -7,10 +7,10 @@ const CONFIG = {
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '立即开创您的在线业务。完全免费。',
+  MAGZINE_HOME_TITLE: 'Come fly with me in the world of creativity!',
   MAGZINE_HOME_DESCRIPTION:
-    '借助NotionNext，获得助您开创、经营和扩展业务所需的全部工具和帮助。',
-  MAGZINE_HOME_TIPS: 'AI时代来临，这是属于超级个体的狂欢盛宴！',
+    'Learn 3D animation knowledge to help you gain more skills and income.',
+  MAGZINE_HOME_TIPS: 'Grow together, create more.',
 
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
@@ -30,7 +30,7 @@ const CONFIG = {
   MAGZINE_POST_DETAIL_TAG: true, // 文章显示标签
 
   // 文章页面联系卡
-  MAGZINE_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  MAGZINE_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
   MAGZINE_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
   MAGZINE_SOCIAL_CARD_TITLE_3: '点击加入社群',
