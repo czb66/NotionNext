@@ -43,33 +43,11 @@ const CONFIG = {
       menus: [
         {
           title: 'IMVU',
-          href: 'imvu.com'
+          href: 'https://wwww.imvu.com'
         },
         {
           title: 'Blender',
           href: 'https://www.Blender.com'
-        }
-      ]
-    },
-    {
-      name: 'Shop',
-      menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
-        {
-          title: '开发帮助',
-          href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
-        },
-        {
-          title: '功能反馈',
-          href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
-        },
-        {
-          title: '技术讨论',
-          href: 'https://github.com/tangly1024/NotionNext/discussions'
-        },
-        {
-          title: '关于作者',
-          href: 'https://blog.tangly1024.com/about'
         }
       ]
     },  
